@@ -28,11 +28,3 @@ Per realizzare questo alfabeto, ho creato una griglia con delle celle, che a lor
 5. **Aggiornamento della Tela**
    - La funzione `updateCanvas()` viene richiamata ogni 2 secondi per pulire e ridisegnare la griglia, creando nuove combinazioni di forme e colori.
 
-## Istruzioni d'Uso
-
-1. **Esecuzione**: Aprire il file in un browser con supporto a JavaScript e P5.js.
-2. **Ridimensionamento Dinamico**: Ridimensionando la finestra del browser, la griglia si adatterà automaticamente.
-3. **Aggiornamento Automatico**: La griglia verrà ridisegnata automaticamente ogni 2 secondi, generando un nuovo disegno.
-
-## Dipendenze
-- **P5.js**: Assicurati di includere la libreria P5.js per il funzionamento di questo codice.
